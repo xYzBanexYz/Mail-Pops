@@ -61,7 +61,7 @@ JavaMail API
 
 Swing / JavaFX (interface graphique)
 
-##🎯 Fonctionnalités principales
+## 🎯 Fonctionnalités principales
 
 Connexion à un compte e-mail via SMTP/IMAP
 

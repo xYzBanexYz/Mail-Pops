@@ -1,5 +1,5 @@
-📧 Messagerie Sécurisée à Base d’Identité (IBE)
-🧩 Description du projet
+# 📧 Messagerie Sécurisée à Base d’Identité (IBE)
+## 🧩 Description du projet
 
 Ce projet consiste en le développement d’une application de messagerie sécurisée en Java intégrant un mécanisme de chiffrement à base d’identité (Identity-Based Encryption – IBE).
 
@@ -15,7 +15,7 @@ Une autorité de confiance (PKG – Private Key Generator) responsable de la gé
 
 Une interface graphique permettant l’envoi, la réception et le déchiffrement des pièces jointes
 
-🔐 Principe cryptographique
+## 🔐 Principe cryptographique
 
 Le projet implémente un schéma de chiffrement à base d’identité inspiré du modèle proposé par Dan Boneh et Matthew Franklin (2001).
 
@@ -31,7 +31,7 @@ Les pièces jointes sont chiffrées à l’aide des paramètres publics du syst�
 
 Ce mécanisme repose sur des courbes elliptiques et des pairings bilinéaires via la bibliothèque JPBC.
 
-🏗 Architecture du système
+## 🏗 Architecture du système
 
 Le système est composé de deux entités principales :
 
@@ -51,7 +51,7 @@ Réception et déchiffrement des pièces jointes
 
 Gestion des e-mails via SMTP/IMAP
 
-🛠 Technologies utilisées
+## 🛠 Technologies utilisées
 
 Java
 
@@ -61,7 +61,7 @@ JavaMail API
 
 Swing / JavaFX (interface graphique)
 
-🎯 Fonctionnalités principales
+##🎯 Fonctionnalités principales
 
 Connexion à un compte e-mail via SMTP/IMAP
 
@@ -73,7 +73,7 @@ Déchiffrement local des fichiers
 
 Gestion des clés privées associées aux identités
 
-⚠️ Limites actuelles
+## ⚠️ Limites actuelles
 
 Présence d’un key escrow inhérent au modèle IBE (l’autorité peut générer toutes les clés privées)
 

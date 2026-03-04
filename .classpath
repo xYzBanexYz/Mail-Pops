@@ -14,5 +14,7 @@
 	<classpathentry kind="lib" path="C:/Users/alban/Downloads/jpbc-2.0.0/jars/jpbc-api-2.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/alban/Downloads/jpbc-2.0.0/jars/bcprov-jdk16-1.46.jar"/>
 	<classpathentry kind="lib" path="C:/Users/alban/Downloads/jpbc-2.0.0/jars/jna-3.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alban/Downloads/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/alban/Downloads/javax.activation-1.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

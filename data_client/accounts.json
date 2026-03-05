@@ -1,0 +1,11 @@
+{
+  "accounts" : {
+    "alban.tramoni@gmail.com" : {
+      "email" : "alban.tramoni@gmail.com",
+      "privateKeyB64" : "j0H+g6ljDjZA5f8B0mzcPAzzeQJV8FmAkxV3MyxsPD8seodc3gddLB3ETN85HLDrxpw3Su/7/qWgPqR5UJMR42ffz6twfHoDnf9NkmeyIwM9/Ef2d2l/mPJzPIjBgOe7ii7KsU2tmCy8ol7vaGYbwX2FawxZ4czOuRx9epz/S14=",
+      "passwordSha256" : "71b15ec703e9039ac7836abe6197bf14decbbf56dc2b8da8c83ed46316650100",
+      "appPassword" : "grbalhqykembhntg",
+      "createdAtEpoch" : 1772727767
+    }
+  }
+}
